@@ -1,19 +1,24 @@
 
 
 .back{
-    background-color: #B58732;
+    background-color: rgb(43, 10, 172);
 }
 
 .button4 {
-    background-color: #ffcece; /* Green */
+    background-color: rgb(43, 10, 172); /* Green */
     border: none;
     border-radius: 11px;
-    color: rgb(168, 10, 10);
+    color: rgb(240, 194, 194);
     padding: 11px 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 17px;
   }
+
+
+
+
+  
 
   
